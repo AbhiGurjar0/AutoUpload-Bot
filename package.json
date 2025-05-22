@@ -1,0 +1,16 @@
+{
+  "name": "insta-reels-puppeteer",
+  "version": "1.0.0",
+  "description": "Automated Instagram Reels Uploader using Puppeteer",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Abhishek Gurjar",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "fs-extra": "^11.3.0",
+    "puppeteer": "^24.9.0"
+  }
+}
